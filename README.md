@@ -57,22 +57,3 @@ To use the predictive system:
 Replace the input_image_path variable with the path to your image.
 
 Run the code snippet to predict whether the person in the image is wearing a mask or not.
-
-### Example Results
-![image](https://github.com/NidaIslam/Face_Mask_Detection_Project/assets/121117931/7463d328-4899-4568-ad3a-729eec1eff2d)
-
-Prediction: The person in the image is wearing a mask.
-
-![image](https://github.com/NidaIslam/Face_Mask_Detection_Project/assets/121117931/f6f1101d-a47c-441e-8963-33aa1c2b914c)
-
-Prediction: The person in the image is not wearing a mask.
-
-## Dataset
-You can download the dataset used in this project from [this link](https://drive.google.com/file/d/12C2H_XSYWJAu1zBtztkH57PsDrlj1TfY/view?usp=drive_link).
-
-
-## Contact
-For any questions, feel free to contact me at http://www.linkedin.com/in/nidaislam10.
-
-
-
