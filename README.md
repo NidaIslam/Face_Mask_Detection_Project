@@ -9,7 +9,7 @@ To run this project locally, follow these steps:
 
 1. Install the required Python packages by running:
 
-   pip install numpy matplotlib opencv-python pillow scikit-learn tensorflow
+   pip install -r requirements.txt
 3. Clone this repository to your local machine:
 
    git clone https://github.com/nidaislam/face-mask-detection.git
