@@ -9,16 +9,16 @@ To run this project locally, follow these steps:
 
 1. Install the required Python packages by running:
 
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 3. Clone this repository to your local machine:
 
-   git clone https://github.com/nidaislam/face-mask-detection.git
+   `git clone https://github.com/nidaislam/face-mask-detection.git`
 5. Navigate to the project directory:
 
-   cd face-mask-detection
+   `cd face-mask-detection`
 7. Run the Python script:
 
-   python mask_detection.py
+   `python mask_detection.py`
 
 ## Dataset
 The dataset used in this project consists of images of people with and without face masks. It is organized into two folders: "with_mask" and "without_mask".
