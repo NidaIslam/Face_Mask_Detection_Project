@@ -1,5 +1,5 @@
 
-# Face Mask Detection Using Convolutional Neural Networks
+# Face Mask Detection Using Convolutional Neural Networks 
 
 ## Overview
 This project aims to detect whether a person is wearing a face mask or not using deep learning techniques. It utilizes Convolutional Neural Networks (CNNs) to classify images into two classes: "With Mask" and "Without Mask".
@@ -8,18 +8,24 @@ This project aims to detect whether a person is wearing a face mask or not using
 To run this project locally, follow these steps:
 
 1. Install the required Python packages by running:
-
-   `pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 3. Clone this repository to your local machine:
 
-   `git clone https://github.com/nidaislam/face-mask-detection.git`
+```bash
+git clone https://github.com/NidaIslam/Face_Mask_Detection_Project.git
+```
 5. Navigate to the project directory:
 
-   `cd face-mask-detection`
+```bash
+cd Face_Mask_Detection_Project
+```
 7. Run the Python script:
 
-   `python mask_detection.py`
-
+```bash
+python mask_detection.py
+```
 ## Dataset
 The dataset used in this project consists of images of people with and without face masks. It is organized into two folders: "with_mask" and "without_mask".
 
